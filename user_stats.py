@@ -1,5 +1,11 @@
 """
 
+Jim Crivello
+01/23/23
+Domain = Puzzles
+
+
+
 This example illustrates basic analytics
 using just the built-in statistics module.
 
